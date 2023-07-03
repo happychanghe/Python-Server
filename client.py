@@ -1,7 +1,7 @@
 import socket
 
 # 접속 정보 설정
-SERVER_IP = '110.76.69.91'
+SERVER_IP = ''
 SERVER_PORT = 5050
 SIZE = 1024
 SERVER_ADDR = (SERVER_IP, SERVER_PORT)

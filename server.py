@@ -2,7 +2,7 @@ import socket
 import time
 
 # 통신 정보 설정
-IP = '192.168.0.12'
+IP = ''
 PORT = 5050
 SIZE = 1024
 ADDR = (IP, PORT)
