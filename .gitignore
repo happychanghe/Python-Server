@@ -6,3 +6,4 @@ __pycache__
 *chatgpt*
 .DS_Store
 postrequest.py
+djangoLearning/mysite/polls/static/polls/images/*
